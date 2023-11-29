@@ -35,7 +35,7 @@ The design inspiration for this project was drawn from [this Instagram post](htt
 
 ### 🚀 Deployment
 
-[Live Demo](https://deployment-redux.vercel.app/) | [Codebase](https://github.com/mchmdirvan/react_mochamad-irvan/tree/main/20_Deployment/Praktikum)
+[Live Demo](https://mchmdirvan.github.io/alterra_code-competence-1/) | [Codebase](https://github.com/mchmdirvan/alterra_code-competence-1)
 
 ### 🛠 Built With
 
