@@ -1,0 +1,128 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+  height: 300vh;
+}
+
+/* Navigation Info Styles */
+.nav-info {
+  background-color: #838671;
+  color: #fdfbef;
+}
+
+/* Navbar Styles */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fdfbef;
+}
+
+nav h1 {
+  font-size: 1.8rem !important;
+}
+
+.navbar-brand {
+  font-family: Caprasimo;
+  padding-bottom: 0 !important;
+}
+
+/* Hero Section 1 Styles */
+.hero-section {
+  background-color: #838671;
+  height: 80vh;
+}
+
+.btn-yellow {
+  background-color: #e9ec79 !important;
+  padding: 0.5rem 8rem !important;
+  border-radius: 0.5rem !important;
+}
+
+.image-hero {
+  max-height: 75vh;
+}
+
+.text-yellow {
+  color: #e9ec79;
+}
+
+.h1-hero {
+  font-size: 4rem;
+  line-height: 3.5rem;
+}
+
+.hero-text {
+  max-width: 40em;
+}
+
+.flex-point {
+  padding-right: 7rem;
+  gap: 1rem;
+}
+
+.text-cream {
+  color: #fdfbef;
+}
+
+/* Hero Section 2 Styles */
+.hero-section-2 {
+  background-color: #fdfbef;
+  height: 70vh;
+}
+
+.text-grey {
+  color: #c5c3b7;
+}
+
+.btn-green {
+  background-color: #838671 !important;
+  padding: 0.5rem 8rem !important;
+  border-radius: 0.5rem !important;
+}
+
+.image-hero-2 {
+  min-height: 50vh;
+}
+
+/* Contact Section */
+.contact-section {
+  background-color: #838671;
+}
+
+.btn-submit {
+  background-color: #e9ec79 !important;
+}
+
+/* Footer */
+footer {
+  background-color: #e9ec79;
+}
+
+footer h1 {
+  font-size: 12rem;
+  font-family: Caprasimo;
+}
+
+footer h2 {
+  font-size: 3rem;
+}
+
+footer li a {
+  text-decoration: none;
+  color: black;
+}
+
+footer li {
+  padding-bottom: 1rem;
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+}
